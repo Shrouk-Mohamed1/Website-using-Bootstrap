@@ -232,6 +232,11 @@ nav .navbar-toggler.collapsed {
     font-weight: 500;
 }
 
+.subscribe input:focus {
+    outline: none;
+    caret-color: #fff;
+}
+
 .subscribe a {
     background-color: var(--dark-color);
 }
